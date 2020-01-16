@@ -12,4 +12,5 @@ Planned specialty smartifiers include:
 - laundry (washer & dryer, add vibration sensors, temp/humidity sensor, current sensor)
 - water heater (two temperature sensors and a current sensor)
 - door bell (add reed switch)
+- garage (reed switches for doors, relay to fire open/close)
 
